@@ -1,0 +1,60 @@
+package tiposDeDatosYVariables;
+
+public class Ejercicios {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+//		System.out.println("Hola mundo");
+		//Tipos de datos
+		
+		//byte: Sirve para representar un valor numérico de 8 bytes
+		//Cine Java
+		
+		byte salas = 10;
+		System.out.println(salas);
+		
+		//short: sirve para representar un valor numérico de 16 bytes
+		short asientos = 1120;
+		System.out.println(asientos);
+		
+		//int: sirve para almacenar un valor numérico de 32 bits
+		int dulces = 3476;
+		System.out.println(dulces);
+		
+		//long: sirve para representar un valor numérico 64 bits
+		
+		long clientes = 313600;
+		System.out.println(clientes);
+		
+		//Datos que pueden tener punto decimal
+		//float: sirve para almacenar un valor numérico de 32 bits
+		
+		float palomitas = 35.5f;
+		System.out.println(palomitas);
+		
+		//Double: Sirve para representar un valor numérico de 64 bits
+		
+		double ganancia = 23770880.7;
+		System.out.println(ganancia);
+		
+		//boolean sirve para representar valores booleanos y solamente tiene dos salidas, verdadero y falso
+		//char sirve para representar un caracter o u número (pero solamente uno)
+		
+		//CAsting o casteo Sirve para realizar una conversión de tipos de datos a uno más grande o mas pequeño, incluso
+		
+		double num = 59.7d;
+		
+		//casteo a entero
+		int numInt = (int)num;
+		System.out.println("double " + numInt);
+		
+		long numLong = (long)num;
+		System.out.println("long " + numLong);
+		
+		
+		
+		
+	}
+
+}

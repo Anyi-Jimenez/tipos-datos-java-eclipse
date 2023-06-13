@@ -1,0 +1,62 @@
+package hotelVariable;
+
+public class Ejercicios {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		byte pisos = 16;
+		System.out.println(pisos);
+		
+		short habitaciones = 1600;
+		System.out.println(habitaciones);
+		
+		int huspedes = 6400;
+		System.out.println(huspedes);
+		
+		//operadores aritméticos
+		
+		int dias = 28;
+		dias += 2;
+		System.out.println("días: " +dias);
+		
+		int dias2 = 28;
+		dias2 /= 2;
+		System.out.println("días: " +dias2);
+		
+		//Operadores de incremento y decremento
+		
+		int p = 0;
+		p++;
+		p++;
+		p++;
+		System.out.println(p);
+		
+		/*Operadpres relacinales
+		 * == comparará si un operando es igual a otro
+		 * !0 diferenete a
+		 * > mayor que
+		 * < menor que
+		 * <= menor o igual que
+		 * >= mayor o igual que
+		 * 
+		 */
+		
+		int a = 10;
+		int b = 15;
+		boolean resultado;
+		resultado = a == b;
+		System.out.println("resultado de la operación: " + resultado);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

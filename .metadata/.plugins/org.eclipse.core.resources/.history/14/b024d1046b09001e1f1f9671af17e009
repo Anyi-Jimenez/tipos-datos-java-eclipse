@@ -1,0 +1,38 @@
+package tiposDeDatosYVariables;
+
+public class Ejercicios {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+//		System.out.println("Hola mundo");
+		//Tipos de datos
+		
+		//byte: Sirve para representar un valor numérico de 8 bytes
+		//Cine Java
+		
+		byte salas = 10;
+		System.out.println(salas);
+		
+		//short: sirve para representar un valor numérico de 16 bytes
+		short asientos = 1120;
+		System.out.println(asientos);
+		
+		//int: sirve para almacenar un valor numérico de 32 bits
+		int dulces = 3476;
+		System.out.println(dulces);
+		
+		//long: sirve para representar un valor numérico 64 bits
+		
+		long clientes = 313600;
+		System.out.println(clientes);
+		
+		//Datos que pueden tener punto decimal
+		//float: sirve para almacenar un valor numérico de 32 bits
+		
+		float palomitas = 35.5f;
+		
+		
+	}
+
+}

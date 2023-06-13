@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+C:\Users\carbo\Documents\Estudio programación\Generation\Sesiones\23.06.12 Tipos de datos Java Eclipse\Tipos de Datos Java Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+238958597.index
+3413725848.index
+1865797976.index
+1091075962.index
